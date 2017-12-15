@@ -8,20 +8,6 @@
 #include "stdlib.h"
 #include "Menu.h"
 
-#include <iostream> 
-#include "stdlib.h" 
-#include "conio.h" 
-#include "string.h" 
-#include "ctype.h"
-#include "windows.h" 
-#include<conio.h> 
-#include<stdio.h> 
-#include<stdlib.h> 
-#include<string.h> 
-#include<math.h> 
-#include<time.h>
-
-
 HANDLE hout = GetStdHandle(STD_OUTPUT_HANDLE);
 HANDLE hConsole;
 COORD position;
